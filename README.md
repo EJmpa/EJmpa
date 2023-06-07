@@ -2,6 +2,8 @@
 
 ### - I'm Chukwuemeka
 
+### - Python, SQL, MongoDB, Scikit-learn, Pandas, Matplotlib, BeautifulSoup, nltk, spacy,
+
 ### - A Machine Learning Engineer | Data Scientist
 
 <!--
