@@ -4,7 +4,7 @@
 
 ### - Python, SQL, MongoDB, Scikit-learn, Pandas, Matplotlib, BeautifulSoup, nltk, spacy,
 
-### - A Machine Learning Engineer | Data Scientist
+### - A Machine Learning Engineer | Data Scientist | FullStack Software Engineer
 
 <!--
 **EJmpa/EJmpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
